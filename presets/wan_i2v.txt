@@ -1,0 +1,4 @@
+diffusion_models/wan22EnhancedNSFWSVICamera_nsfwFASTMOVEV2Q8H.gguf
+diffusion_models/wan22EnhancedNSFWSVICamera_nsfwFASTMOVEV2Q8L.gguf
+text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors
+vae/wan_2.1_vae.safetensors
